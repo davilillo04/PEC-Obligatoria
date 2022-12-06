@@ -1,0 +1,52 @@
+.image{
+  width: 100%;
+  border-radius: 5%;
+right: 50%;
+}
+.top-navigation{
+  position: absolute;
+    top: 5%;
+    right: 5%;
+    background-color: #00EDD1;
+    color: black;
+    float: left;
+   color: #f2f2f2;
+    text-align: center;
+    padding: 14px 18px;
+   text-decoration: none;
+   font-size: 17px;
+   box-sizing: border-box;
+}
+video{
+  text-align: center;
+  right: 50%;
+}
+body{
+  background: linear-gradient(0deg, rgb(0, 237, 209) 0%, rgb(255, 152, 255) 50.00%, rgb(255, 180, 175) 100%);;
+}
+
+p{
+    font-size: 115%;
+    color: #00EDD1;
+   font-family: 'Montserrat';
+    font-family: Arial, Helvetica, sans-serif;
+   display: flex;
+    justify-content: space-around;
+    background-color: #FFFFFF
+}
+@font-face{
+ font-family:'Montserrat' ;
+  src: url(/fonts/Montserrat-Italic-VariableFont_wght.ttf);
+}
+h1{
+  text-align: center;
+  color: #00EDD1;
+}
+h2{
+  text-align: center;
+  color: #00EDD1;
+}
+footer{
+  text-align: center;
+  border-style: solid;
+}
